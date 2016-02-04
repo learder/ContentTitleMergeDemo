@@ -3,5 +3,5 @@
 
 就像，外卖网里面的标签与食物 两个列表
 
-https://github.com/learder/ContentTitleMergeDemo/blob/master/IMG_1348.JPG
-https://github.com/learder/ContentTitleMergeDemo/blob/master/IMG_1349.JPG
+![image](https://github.com/learder/ContentTitleMergeDemo/blob/master/IMG_1348.JPG)
+![image](https://github.com/learder/ContentTitleMergeDemo/blob/master/IMG_1349.JPG)
